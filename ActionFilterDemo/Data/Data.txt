@@ -1,0 +1,42 @@
+﻿
+Demo -> Page2 -> OnActionExecuting 	- 01-04-2021 16:27:42
+
+Demo -> Page2 -> OnActionExecuted 	- 01-04-2021 16:27:42
+Demo -> Page2 -> OnResultExecuting 	- 01-04-2021 16:27:42
+Demo -> Page2 -> OnResultExecuted 	- 01-04-2021 16:27:44
+---------------------------------------------------------
+
+Demo -> Index -> OnActionExecuting 	- 01-04-2021 16:27:49
+
+Demo -> Index -> OnActionExecuted 	- 01-04-2021 16:27:49
+Demo -> Index -> OnResultExecuting 	- 01-04-2021 16:27:49
+Demo -> Index -> OnResultExecuted 	- 01-04-2021 16:27:49
+---------------------------------------------------------
+
+Demo -> Page1 -> OnActionExecuting 	- 01-04-2021 16:27:51
+
+Demo -> Page1 -> OnActionExecuted 	- 01-04-2021 16:27:51
+Demo -> Page1 -> OnResultExecuting 	- 01-04-2021 16:27:51
+Demo -> Page1 -> OnResultExecuted 	- 01-04-2021 16:27:51
+---------------------------------------------------------
+
+Demo -> Page2 -> OnActionExecuting 	- 01-04-2021 16:27:52
+
+Demo -> Page2 -> OnActionExecuted 	- 01-04-2021 16:27:52
+Demo -> Page2 -> OnResultExecuting 	- 01-04-2021 16:27:52
+Demo -> Page2 -> OnResultExecuted 	- 01-04-2021 16:27:52
+---------------------------------------------------------
+
+Demo -> Page3 -> OnActionExecuting 	- 01-04-2021 16:27:53
+
+Demo -> Page3 -> OnActionExecuted 	- 01-04-2021 16:27:53
+Demo -> Page3 -> OnResultExecuting 	- 01-04-2021 16:27:53
+Demo -> Page3 -> OnResultExecuted 	- 01-04-2021 16:27:53
+---------------------------------------------------------
+
+Demo -> Page4 -> OnActionExecuting 	- 01-04-2021 16:27:55
+
+Demo -> Page4 -> OnActionExecuted 	- 01-04-2021 16:27:55
+Demo -> Page4 -> OnResultExecuting 	- 01-04-2021 16:27:55
+Demo -> Page4 -> OnResultExecuted 	- 01-04-2021 16:27:55
+---------------------------------------------------------

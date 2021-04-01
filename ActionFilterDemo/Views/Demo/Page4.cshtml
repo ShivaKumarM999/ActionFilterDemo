@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Page4";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Page4</h2>
+
+@{
+    Html.RenderPartial("_PartialDemo");
+}
+
+@Html.Partial("_PartialDemo1")
+
+@{
+    Html.RenderAction("Page5");
+}
+
+@Html.Action("Page5")
